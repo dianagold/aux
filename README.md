@@ -5,5 +5,6 @@ aux
 
 ![LP_Brazil_2011_2019_counties](https://user-images.githubusercontent.com/43160181/113435166-42d95a80-93b0-11eb-9cf0-c244c4557671.gif)
 
-![LP_explanation](https://user-images.githubusercontent.com/43160181/113438886-7ec3ee00-93b7-11eb-8053-0f20414ff869.gif)
+![LP_explanation](https://user-images.githubusercontent.com/43160181/113439112-e4b07580-93b7-11eb-94ae-1cc5134343e3.png)
+
 
